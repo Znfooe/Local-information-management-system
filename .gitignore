@@ -27,3 +27,6 @@ dist-ssr
 dist-electron
 userdata
 release-new-v5
+
+# Tool specific
+.trae
